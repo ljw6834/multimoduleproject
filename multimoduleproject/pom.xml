@@ -8,5 +8,6 @@
   <description>mutli module project test</description>
   <modules>
   	<module>module1</module>
+  	<module>module2</module>
   </modules>
 </project>
